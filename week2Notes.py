@@ -63,3 +63,13 @@ because answer ek baar me bhi diya jaa skta hai but jab kabhi bhi user koi servi
 by default streaming false hota hai because llm hamesha streaming use nhi kar raha hota, hame streaming tab hi use karna hai jab hamara end user human ho, tab hi hame streaming use karna chahiye, but agar user koi dusra llm hai toh tab hame streaming use nhi karna chahiye because json generate karte samay streaming use nhi karna chhaiye 
 
 """
+
+#day 12 on Personal Portfolio AI Project episode 11
+'''
+API is a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other service. API is a software intermediary that allows two applications to talk to each other. For example, when you use an app like Facebook, send an instant message, or check the weather on your phone, you’re using an API.
+Browser or code ke beech me baat karane ke liye API ka use hota hai, jaise ki jab hum browser me koi website open karte hai toh browser ke pass ek request jata hai ki ye website ka data chahiye then website ke server se response aata hai ki ye website ka data hai then browser usko render karke hame dikha deta hai, is process me browser aur server ke beech me API ka use hota hai.
+python me fastAPI and django ka use karke API banate hai and uske through hum apne application ke features ko access karte hai.
+Similarly different language ke liye alag alag API hota hai jaise ki python ke liye fastAPI and django, java ke liye spring boot, javascript ke liye express.js, etc.
+uvicon is used to run the fastAPI server and it is a lightning fast ASGI server implementation, using uvloop and httptools. It is designed to be easy to use and to provide high performance. It is also compatible with the ASGI specification, which allows it to be used with a variety of web frameworks and applications.
+in hinglish uvicon ka use fastAPI server ko run karne ke liye hota hai and ye ek lightning fast ASGI server implementation hai, jo uvloop and httptools ka use karta hai. Ye easy to use hai and high performance provide karta hai. Ye ASGI specification ke sath compatible hai, jo ki alag alag web frameworks and applications ke sath use kiya ja sakta hai.
+'''
